@@ -1,0 +1,43 @@
+nro	derechos_salud	causa	definicion	definicion_corta	codigo
+1	Acceso a los Servicios de Salud	Negar la acreditación de usuario asegurado	No brindar información actualizada a las IPRESS con las que mantiene vínculo, para acreditar la afiliación o cobertura o condiciones para la atención de salud de sus asegurados o beneficiarios	La información de mi seguro no está actualizada	5101
+2	Acceso a los Servicios de Salud	Negar la afiliación del usuario	No admitir la afiliación de personas que cumplen con los requisitos	No quieren afiliarme	5102
+3	Acceso a los Servicios de Salud	Negar o demorar en otorgar la cobertura en salud	"Se consideran los reclamos relacionados con la insatisfacción generada por la cobertura:
+• No brindar la continuidad de cobertura de preexistencias.
+• No permitir contratar el Plan Esencial de Aseguramiento en Salud (PEAS).
+• Negativa de cobertura de prestaciones ofertadas en los planes o paquetes de salud.
+• No verificar que el asegurado tenga PEAS.
+• Entre otras."	"• No me quieren brindar la atención o el servicio.
+• Se demoraron en brindarme la atención o el servicio."	5103
+4	Acceso a los Servicios de Salud	Negar la cobertura en periodo de latencia.	No reconocer la cobertura de atenciones durante el periodo de latencia.	Me niegan la cobertura estando en latencia	5104
+5	Acceso a los Servicios de Salud	Negar la cobertura de emergencia en periodo de carencia	Negar la cobertura de emergencia del usuario por evaluación incorrecta del período de carencia.	Me niegan la cobertura de emergencia estando en carencia	5105
+6	Acceso a los Servicios de Salud	Demorar la gestión de la carta de garantía y/o reembolsos	"Problemas relacionados a la evidencia de retener o entorpecer, o incumplimiento de la gestión de la carta de garantía y/o reembolsos.
+Son instalaciones generadas por las siguientes situaciones:
+• La institución no acepta o incumple la gestión del reembolso o carta de garantía.
+• La institución reconoce de forma parcial el reembolso."	Demoran la emisíon de carta de Garantía o reembolso	5106
+7	Acceso a los Servicios de Salud	No permitir al usuario la libre elección de IPRESS de acuerdo a lo contratado	Negar u obstaculizar la libre elección de IPRESS	No puedo atenderme donde quiero	5107
+8	Acceso a los Servicios de Salud	Cobrar indebidamente	Reclamos relacionados a cobros no acordados en el Plan del afiliado, que sean adicionales o diferenciales a los pactados inicialmente entre las IAFAS y el usuario	Me cobran algo que no corresponde	5108
+9	Acceso a los Servicios de Salud	Negar o demorar la atención en la IAFAS	Insatisfacción del usuario debido a la negación o tiempo de espera que excede el plazo razonable en la atención de la institución 	No me atienden o se demoran	5109
+10	Acceso a los Servicios de Salud	Negar el otorgamiento de prestaciones económicas o sociales	Reclamos relacionados al otorgamiento de prestaciones económicas o sociales	Niegan prestación económica	5110
+11	Acceso a los Servicios de Salud	Negar atención para el trámite de registro o acreditación	Al acudir a realizar mis trámites ante la IAFAS, me indican que espere o regrese otro día debido a que no cuentan con energía eléctrica y/o sistemas operativos	Falta de energía eléctrica y/o acceso a sistemas	5111
+12	Acceso a la Información	No brindar información sobre sus derechos en salud	"Se consideran los reclamos relacionados con la insatisfacción generada por la falta de información:
+• No poner a disposición de las entidades empleadoras o de los asegurados, informacíon idónea y suficiente sobre el detalle de la cobertura, red prestacional, procedimiento para la atención de reclamos u otra información relevante, de conformidad a la normativa vigente.
+• No informar a sus afiliados con la debida antelación a la atención a recibir, a través de los canales puestos a su disposición, la interrupción del servicio que se brinda, afectando la atención de un asegurado."	No me informan adecuadamente	5201
+13	Atención y recuperación de la salud	No brindar atención con respeto de parte del personal de la IAFAS	Insatisfacción del usuario por la vulneración de la moral y buenas costumbres y dignidad del usuario, de parte del presonal de la IAFAS	"• No recibí trato amable.
+• Recibí trato discriminatorio"	5301
+14	Atención y recuperación de la salud	No brindar atención según la ley de atención preferencial y de discapacidad	"No cumplir con las disposiciones vigentes para la atención preferencial y de usuarios con discapacidad. Se consideran:
+• No contar con ventanilla de atención preferencial.
+• No cumplir con la atención preferencial.
+• Entre otros."	No recibí atención preferente.	5302
+15	Protección de derechos	No cumplir con la disposición de libro de reclamasiones en salud	"Incumplimiento de la normativa vigente con respecto al libro de reclamaciones en salud. Se incluyen:
+• No contar con libro de reclamaciones.
+• Formato no conforme de acuerdo a norma vigente del libro de reclamaciones.
+• Negativa de entrega del libro de reclamaciones a solicitud del usuario, u otras formas de obstaculizar el registro de un reclamo.
+• Falta de respuesta de reclamo en los plazos previstos de acuerdo a norma vigente.
+• Entre otras."	Atención del reclamo	5401
+16	Protección de derechos	No cumplir con las disposiciones de la PAUS de acuerdo a normatividad vigente.	"Incumplimiento de la normativa vigente con respecto a la implementación de la PAUS. Se incluyen:
+• Ausencia de PAUS.
+• Ambiente de la PAUS no brinda confidencialidad.
+• Falta de señalización para la ubicación de la PAUS.
+• No contar con afiches con los flujogramas atención de consultas y reclamos.
+• Entre otras"	Ausencia de PAUS	5402
+17	OTROS	Otros relativos a las IAFAS	Otros reclamos referidos a la atención en las IAFAS	Otro reclamo no identificado	6001
